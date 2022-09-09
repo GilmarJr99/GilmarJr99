@@ -5,8 +5,8 @@ Segue abaixo meu histórico e as tecnologias que ultilizo atualmente. 😉
 
 <div align="center">
   <a href="https://github.com/GilmarJr99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Runior1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Runior1&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GilmarJr99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilmarJr99&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
