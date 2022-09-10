@@ -1,4 +1,4 @@
-### Olá! 👋 Meu nome é *Gilmar*, como vai ?
+### Olá! 👋 Meu nome é *Gilmar*, como vai ? 
 
 Segue abaixo meu histórico e as tecnologias que ultilizo atualmente. 😉
 
