@@ -12,7 +12,6 @@ Segue abaixo meu histórico e as tecnologias que ultilizo atualmente. 😉
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gilmar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gilmar-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gilmar-Angular height ="35" width="40"  <img height="35" width="40"src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" />
   <img align="center" alt="Gilmar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gilmar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
